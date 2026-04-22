@@ -1,4 +1,4 @@
-# Eigenvalue Solver & Benchmarking System (C++)
+# Eigenvalue Solver  (C++)
 
 ## Overview
 
