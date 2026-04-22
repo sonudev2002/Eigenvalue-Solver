@@ -149,5 +149,5 @@ g++ *.cpp -O2 -march=native -o main
 
 
 ## Author
-
+Sonu dev
 C++ developer focused on algorithms, performance, and systems-level problem solving.
