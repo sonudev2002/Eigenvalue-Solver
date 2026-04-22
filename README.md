@@ -147,11 +147,6 @@ g++ *.cpp -O2 -march=native -o main
 
 ---
 
-## Resume Description
-
-> Implemented and benchmarked eigenvalue algorithms (Power Iteration, Lanczos, Shifted QR) in C++, analyzing performance, convergence, and numerical stability on large matrices using multithreading.
-
----
 
 ## Author
 
